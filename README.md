@@ -10,11 +10,11 @@ utworzyłem sieć mostkową poleceniem: docker network create --driver bridge la
 uruchomiłem konterner web1, web2 oraz web3
 <img width="1356" height="129" alt="image" src="https://github.com/user-attachments/assets/9298a34d-37b9-47f6-978b-a1fcf8185625" />
 # Sprawdzam czy stony działają
-link do stron http://localhost:8081/
+link do strony http://localhost:8081/
 <img width="962" height="260" alt="image" src="https://github.com/user-attachments/assets/d8c78ad1-27e6-4d23-bb07-16189ecb0549" />
-link do stron http://localhost:8082/
+link do strony http://localhost:8082/
 <img width="908" height="204" alt="image" src="https://github.com/user-attachments/assets/9db9e71b-5187-4e23-9ad1-59825c422e5b" />
-link do stron http://localhost:8083/
+link do strony http://localhost:8083/
 <img width="933" height="234" alt="image" src="https://github.com/user-attachments/assets/dca2a69a-b59a-40d0-a5c1-54622862a9c8" />
 
 # Sprawdzenie
